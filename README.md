@@ -1,1 +1,3 @@
-# ml-homework
+# ml-homework\
+Здесь собраны мои домашки по ML
+
